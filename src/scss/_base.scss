@@ -1,0 +1,29 @@
+// Your own styles
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(82, 80, 80);
+}
+
+footer {
+    background-color: rgb(59, 58, 58);
+    color: white;
+}
+.intro {
+    padding: 3em;
+}
+.col {
+    width: 400px;
+}
+
+.overridelinks a {
+    color: rgb(122, 183, 190);
+    text-decoration: none;
+}
+
+.overridelinks a:hover {
+    color: rgb(145, 145, 145);
+}
